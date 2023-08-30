@@ -1,0 +1,1161 @@
+Players born in 1994: 
+
+Position: DF
+Name: John Stones
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Raheem Sterling
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: MF
+Name: Corentin Tolisso
+Year of birth: 1994
+National team: France
+Club: Bayern Munich
+
+Position: DF
+Name: João Cancelo
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: MF
+Name: Bruno Fernandes
+Year of birth: 1994
+National team: Portugal
+Club: Manchester United
+
+Position: FW
+Name: Bernardo Silva
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: DF
+Name: Marquinhos
+Year of birth: 1994
+National team: Brazil
+Club: Paris Saint-Germain
+
+Position: DF
+Name: Aymeric Laporte
+Year of birth: 1994
+National team: Spain
+Club: Manchester City
+
+Position: GK
+Name: Kepa Arrizabalaga
+Year of birth: 1994
+National team: Spain
+Club: Chelsea
+
+Position: MF
+Name: Rodrigo De Paul
+Year of birth: 1994
+National team: Argentina
+Club: Atletico Madrid
+
+================================================
+
+Players play for Manchester United club: 
+
+Position: DF
+Name: Harry Maguire
+Year of birth: 1993
+National team: England
+Club: Manchester United
+
+Position: GK
+Name: Dean Henderson
+Year of birth: 1997
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Luke Shaw
+Year of birth: 1995
+National team: England
+Club: Manchester United
+
+Position: MF
+Name: Jesse Lingard
+Year of birth: 1992
+National team: England
+Club: Manchester United
+
+Position: FW
+Name: Marcus Rashford
+Year of birth: 1997
+National team: England
+Club: Manchester United
+
+Position: FW
+Name: Jadon Sancho
+Year of birth: 2000
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Raphael Varane
+Year of birth: 1993
+National team: France
+Club: Manchester United
+
+Position: MF
+Name: Paul Pogba
+Year of birth: 1993
+National team: France
+Club: Manchester United
+
+Position: DF
+Name: Diogo Dalot
+Year of birth: 1999
+National team: Portugal
+Club: Manchester United
+
+Position: MF
+Name: Bruno Fernandes
+Year of birth: 1994
+National team: Portugal
+Club: Manchester United
+
+Position: FW
+Name: Cristiano Ronaldo
+Year of birth: 1985
+National team: Portugal
+Club: Manchester United
+
+Position: DF
+Name: Alex Telles
+Year of birth: 1992
+National team: Brazil
+Club: Manchester United
+
+Position: MF
+Name: Fred
+Year of birth: 1993
+National team: Brazil
+Club: Manchester United
+
+Position: GK
+Name: David de Gea
+Year of birth: 1990
+National team: Spain
+Club: Manchester United
+
+================================================
+
+Players at position FW for Manchester City: 
+
+Position: FW
+Name: Phil Foden
+Year of birth: 2000
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Raheem Sterling
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Jack Grealish
+Year of birth: 1995
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Bernardo Silva
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: FW
+Name: Gabriel Jesus
+Year of birth: 1997
+National team: Brazil
+Club: Manchester City
+
+================================================
+The players ascendingly by their year of birth: 
+
+Position: DF
+Name: Thiago Silva
+Year of birth: 1984
+National team: Brazil
+Club: Chelsea
+
+Position: FW
+Name: Cristiano Ronaldo
+Year of birth: 1985
+National team: Portugal
+Club: Manchester United
+
+Position: DF
+Name: Raúl Albiol
+Year of birth: 1985
+National team: Spain
+Club: Villarreal
+
+Position: DF
+Name: Sergio Ramos
+Year of birth: 1986
+National team: Spain
+Club: Paris Saint-Germain
+
+Position: FW
+Name: Karim Benzema
+Year of birth: 1987
+National team: France
+Club: Real Madrid
+
+Position: FW
+Name: Lionel Messi
+Year of birth: 1987
+National team: Argentina
+Club: Paris Saint-Germai
+
+Position: MF
+Name: Angel Di María
+Year of birth: 1988
+National team: Argentina
+Club: Paris Saint-Germain
+
+Position: FW
+Name: Felipe
+Year of birth: 1989
+National team: Brazil
+Club: Atletico Madrid
+
+Position: DF
+Name: Cesar Azpilicueta
+Year of birth: 1989
+National team: Spain
+Club: Chelsea
+
+Position: MF
+Name: Jordan Henderson
+Year of birth: 1990
+National team: England
+Club: Liverpool
+
+Position: GK
+Name: David de Gea
+Year of birth: 1990
+National team: Spain
+Club: Manchester United
+
+Position: DF
+Name: Kyle Walker
+Year of birth: 1990
+National team: England
+Club: Manchester City
+
+Position: DF
+Name: Marcos Alonso
+Year of birth: 1990
+National team: Spain
+Club: Chelsea
+
+Position: MF
+Name: N'Golo Kante
+Year of birth: 1991
+National team: France
+Club: Chelsea
+
+Position: DF
+Name: Alex Sandro
+Year of birth: 1991
+National team: Brazil
+Club: Juventus
+
+Position: FW
+Name: Danilo
+Year of birth: 1991
+National team: Brazil
+Club: Juventus
+
+Position: DF
+Name: Danilo Pereira
+Year of birth: 1991
+National team: Portugal
+Club: Paris Saint-Germain
+
+Position: MF
+Name: Thiago
+Year of birth: 1991
+National team: Spain
+Club: Liverpool
+
+Position: FW
+Name: Roberto Firmino
+Year of birth: 1991
+National team: Brazil
+Club: Liverpool
+
+Position: FW
+Name: Antoine Griezmann
+Year of birth: 1991
+National team: France
+Club: Atletico Madrid
+
+Position: MF
+Name: Koke
+Year of birth: 1992
+National team: Spain
+Club: Atletico Madrid
+
+Position: FW
+Name: Alvaro Morata
+Year of birth: 1992
+National team: Spain
+Club: Juventus
+
+Position: DF
+Name: Alex Telles
+Year of birth: 1992
+National team: Brazil
+Club: Manchester United
+
+Position: FW
+Name: Neymar
+Year of birth: 1992
+National team: Brazil
+Club: Paris Saint-Germain
+
+Position: GK
+Name: Alisson
+Year of birth: 1992
+National team: Brazil
+Club: Liverpool
+
+Position: MF
+Name: Casemiro
+Year of birth: 1992
+National team: Brazil
+Club: Real Madrid
+
+Position: MF
+Name: Jesse Lingard
+Year of birth: 1992
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Dani Carvajal
+Year of birth: 1992
+National team: Spain
+Club: Real Madrid
+
+Position: MF
+Name: Fabinho
+Year of birth: 1993
+National team: Brazil
+Club: Liverpool
+
+Position: GK
+Name: Ederson
+Year of birth: 1993
+National team: Brazil
+Club: Manchester City
+
+Position: MF
+Name: Fred
+Year of birth: 1993
+National team: Brazil
+Club: Manchester United
+
+Position: DF
+Name: Harry Maguire
+Year of birth: 1993
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Raphael Varane
+Year of birth: 1993
+National team: France
+Club: Manchester United
+
+Position: FW
+Name: Paulo Dybala
+Year of birth: 1993
+National team: Argentina
+Club: Juventus
+
+Position: MF
+Name: Paul Pogba
+Year of birth: 1993
+National team: France
+Club: Manchester United
+
+Position: DF
+Name: Marquinhos
+Year of birth: 1994
+National team: Brazil
+Club: Paris Saint-Germain
+
+Position: GK
+Name: Kepa Arrizabalaga
+Year of birth: 1994
+National team: Spain
+Club: Chelsea
+
+Position: MF
+Name: Bruno Fernandes
+Year of birth: 1994
+National team: Portugal
+Club: Manchester United
+
+Position: DF
+Name: John Stones
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Bernardo Silva
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: MF
+Name: Corentin Tolisso
+Year of birth: 1994
+National team: France
+Club: Bayern Munich
+
+Position: DF
+Name: Aymeric Laporte
+Year of birth: 1994
+National team: Spain
+Club: Manchester City
+
+Position: FW
+Name: Raheem Sterling
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: MF
+Name: Rodrigo De Paul
+Year of birth: 1994
+National team: Argentina
+Club: Atletico Madrid
+
+Position: DF
+Name: João Cancelo
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: MF
+Name: Marcos Llorente
+Year of birth: 1995
+National team: Spain
+Club: Atletico Madrid
+
+Position: MF
+Name: Thomas Lemar
+Year of birth: 1995
+National team: France
+Club: Atletico Madrid
+
+Position: DF
+Name: Luke Shaw
+Year of birth: 1995
+National team: England
+Club: Manchester United
+
+Position: FW
+Name: Angel Correa
+Year of birth: 1995
+National team: Argentina
+Club: Atletico Madrid
+
+Position: DF
+Name: Presnel Kimpembe
+Year of birth: 1995
+National team: France
+Club: Paris Saint-Germain
+
+Position: MF
+Name: Adrien Rabiot
+Year of birth: 1995
+National team: France
+Club: Juventus
+
+Position: FW
+Name: Jack Grealish
+Year of birth: 1995
+National team: England
+Club: Manchester City
+
+Position: DF
+Name: Lucas Hernandez
+Year of birth: 1996
+National team: France
+Club: Bayern Munich
+
+Position: FW
+Name: Diogo Jota
+Year of birth: 1996
+National team: Portugal
+Club: Liverpool
+
+Position: MF
+Name: Giovani Lo Celso
+Year of birth: 1996
+National team: Argentina
+Club: Villarreal
+
+Position: FW
+Name: Kingsley Coman
+Year of birth: 1996
+National team: France
+Club: Bayern Munich
+
+Position: DF
+Name: Ben Chilwell
+Year of birth: 1996
+National team: England
+Club: Chelsea
+
+Position: DF
+Name: Benjamin Pavard
+Year of birth: 1996
+National team: France
+Club: Bayern Munich
+
+Position: MF
+Name: Rodri
+Year of birth: 1996
+National team: Spain
+Club: Manchester City
+
+Position: DF
+Name: Pau Torres
+Year of birth: 1997
+National team: Spain
+Club: Villarreal
+
+Position: GK
+Name: Dean Henderson
+Year of birth: 1997
+National team: England
+Club: Manchester United
+
+Position: FW
+Name: Marcus Rashford
+Year of birth: 1997
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Gabriel
+Year of birth: 1997
+National team: Brazil
+Club: Arsenal
+
+Position: FW
+Name: Gabriel Jesus
+Year of birth: 1997
+National team: Brazil
+Club: Manchester City
+
+Position: DF
+Name: Rúben Dias
+Year of birth: 1997
+National team: Portugal
+Club: Manchester City
+
+Position: DF
+Name: Dayot Upamecano
+Year of birth: 1998
+National team: France
+Club: Bayern Munich
+
+Position: DF
+Name: Renan Lodi
+Year of birth: 1998
+National team: Brazil
+Club: Atletico Madrid
+
+Position: FW
+Name: Kylian Mbappe
+Year of birth: 1998
+National team: France
+Club: Paris Saint-Germain
+
+Position: DF
+Name: Juan Foyth
+Year of birth: 1998
+National team: Argentina
+Club: Villarreal
+
+Position: DF
+Name: Trent Alexander-Arnold
+Year of birth: 1998
+National team: England
+Club: Liverpool
+
+Position: FW
+Name: Eder Militão
+Year of birth: 1998
+National team: Brazil
+Club: Real Madrid
+
+Position: DF
+Name: Diogo Dalot
+Year of birth: 1999
+National team: Portugal
+Club: Manchester United
+
+Position: FW
+Name: Matheus Cunha
+Year of birth: 1999
+National team: Brazil
+Club: Atletico Madrid
+
+Position: DF
+Name: Reece James
+Year of birth: 1999
+National team: England
+Club: Chelsea
+
+Position: FW
+Name: João Felix
+Year of birth: 1999
+National team: Portugal
+Club: Atletico Madrid
+
+Position: MF
+Name: Mason Mount
+Year of birth: 1999
+National team: England
+Club: Chelsea
+
+Position: FW
+Name: Jadon Sancho
+Year of birth: 2000
+National team: England
+Club: Manchester United
+
+Position: FW
+Name: Phil Foden
+Year of birth: 2000
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Vinícius Júnior
+Year of birth: 2000
+National team: Brazil
+Club: Real Madrid
+
+Position: FW
+Name: Rodrygo
+Year of birth: 2001
+National team: Brazil
+Club: Real Madrid
+
+Position: DF
+Name: Nuno Mendes
+Year of birth: 2002
+National team: Portugal
+Club: Paris Saint-Germain
+
+================================================
+The players ascendingly by their last name: 
+
+Position: MF
+Name: Adrien Rabiot
+Year of birth: 1995
+National team: France
+Club: Juventus
+
+Position: DF
+Name: Alex Sandro
+Year of birth: 1991
+National team: Brazil
+Club: Juventus
+
+Position: DF
+Name: Alex Telles
+Year of birth: 1992
+National team: Brazil
+Club: Manchester United
+
+Position: GK
+Name: Alisson
+Year of birth: 1992
+National team: Brazil
+Club: Liverpool
+
+Position: FW
+Name: Alvaro Morata
+Year of birth: 1992
+National team: Spain
+Club: Juventus
+
+Position: FW
+Name: Angel Correa
+Year of birth: 1995
+National team: Argentina
+Club: Atletico Madrid
+
+Position: MF
+Name: Angel Di María
+Year of birth: 1988
+National team: Argentina
+Club: Paris Saint-Germain
+
+Position: FW
+Name: Antoine Griezmann
+Year of birth: 1991
+National team: France
+Club: Atletico Madrid
+
+Position: DF
+Name: Aymeric Laporte
+Year of birth: 1994
+National team: Spain
+Club: Manchester City
+
+Position: DF
+Name: Ben Chilwell
+Year of birth: 1996
+National team: England
+Club: Chelsea
+
+Position: DF
+Name: Benjamin Pavard
+Year of birth: 1996
+National team: France
+Club: Bayern Munich
+
+Position: FW
+Name: Bernardo Silva
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: MF
+Name: Bruno Fernandes
+Year of birth: 1994
+National team: Portugal
+Club: Manchester United
+
+Position: MF
+Name: Casemiro
+Year of birth: 1992
+National team: Brazil
+Club: Real Madrid
+
+Position: DF
+Name: Cesar Azpilicueta
+Year of birth: 1989
+National team: Spain
+Club: Chelsea
+
+Position: MF
+Name: Corentin Tolisso
+Year of birth: 1994
+National team: France
+Club: Bayern Munich
+
+Position: FW
+Name: Cristiano Ronaldo
+Year of birth: 1985
+National team: Portugal
+Club: Manchester United
+
+Position: DF
+Name: Dani Carvajal
+Year of birth: 1992
+National team: Spain
+Club: Real Madrid
+
+Position: FW
+Name: Danilo
+Year of birth: 1991
+National team: Brazil
+Club: Juventus
+
+Position: DF
+Name: Danilo Pereira
+Year of birth: 1991
+National team: Portugal
+Club: Paris Saint-Germain
+
+Position: GK
+Name: David de Gea
+Year of birth: 1990
+National team: Spain
+Club: Manchester United
+
+Position: DF
+Name: Dayot Upamecano
+Year of birth: 1998
+National team: France
+Club: Bayern Munich
+
+Position: GK
+Name: Dean Henderson
+Year of birth: 1997
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Diogo Dalot
+Year of birth: 1999
+National team: Portugal
+Club: Manchester United
+
+Position: FW
+Name: Diogo Jota
+Year of birth: 1996
+National team: Portugal
+Club: Liverpool
+
+Position: FW
+Name: Eder Militão
+Year of birth: 1998
+National team: Brazil
+Club: Real Madrid
+
+Position: GK
+Name: Ederson
+Year of birth: 1993
+National team: Brazil
+Club: Manchester City
+
+Position: MF
+Name: Fabinho
+Year of birth: 1993
+National team: Brazil
+Club: Liverpool
+
+Position: FW
+Name: Felipe
+Year of birth: 1989
+National team: Brazil
+Club: Atletico Madrid
+
+Position: MF
+Name: Fred
+Year of birth: 1993
+National team: Brazil
+Club: Manchester United
+
+Position: DF
+Name: Gabriel
+Year of birth: 1997
+National team: Brazil
+Club: Arsenal
+
+Position: FW
+Name: Gabriel Jesus
+Year of birth: 1997
+National team: Brazil
+Club: Manchester City
+
+Position: MF
+Name: Giovani Lo Celso
+Year of birth: 1996
+National team: Argentina
+Club: Villarreal
+
+Position: DF
+Name: Harry Maguire
+Year of birth: 1993
+National team: England
+Club: Manchester United
+
+Position: FW
+Name: Jack Grealish
+Year of birth: 1995
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Jadon Sancho
+Year of birth: 2000
+National team: England
+Club: Manchester United
+
+Position: MF
+Name: Jesse Lingard
+Year of birth: 1992
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: John Stones
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: MF
+Name: Jordan Henderson
+Year of birth: 1990
+National team: England
+Club: Liverpool
+
+Position: DF
+Name: João Cancelo
+Year of birth: 1994
+National team: Portugal
+Club: Manchester City
+
+Position: FW
+Name: João Felix
+Year of birth: 1999
+National team: Portugal
+Club: Atletico Madrid
+
+Position: DF
+Name: Juan Foyth
+Year of birth: 1998
+National team: Argentina
+Club: Villarreal
+
+Position: FW
+Name: Karim Benzema
+Year of birth: 1987
+National team: France
+Club: Real Madrid
+
+Position: GK
+Name: Kepa Arrizabalaga
+Year of birth: 1994
+National team: Spain
+Club: Chelsea
+
+Position: FW
+Name: Kingsley Coman
+Year of birth: 1996
+National team: France
+Club: Bayern Munich
+
+Position: MF
+Name: Koke
+Year of birth: 1992
+National team: Spain
+Club: Atletico Madrid
+
+Position: DF
+Name: Kyle Walker
+Year of birth: 1990
+National team: England
+Club: Manchester City
+
+Position: FW
+Name: Kylian Mbappe
+Year of birth: 1998
+National team: France
+Club: Paris Saint-Germain
+
+Position: FW
+Name: Lionel Messi
+Year of birth: 1987
+National team: Argentina
+Club: Paris Saint-Germai
+
+Position: DF
+Name: Lucas Hernandez
+Year of birth: 1996
+National team: France
+Club: Bayern Munich
+
+Position: DF
+Name: Luke Shaw
+Year of birth: 1995
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Marcos Alonso
+Year of birth: 1990
+National team: Spain
+Club: Chelsea
+
+Position: MF
+Name: Marcos Llorente
+Year of birth: 1995
+National team: Spain
+Club: Atletico Madrid
+
+Position: FW
+Name: Marcus Rashford
+Year of birth: 1997
+National team: England
+Club: Manchester United
+
+Position: DF
+Name: Marquinhos
+Year of birth: 1994
+National team: Brazil
+Club: Paris Saint-Germain
+
+Position: MF
+Name: Mason Mount
+Year of birth: 1999
+National team: England
+Club: Chelsea
+
+Position: FW
+Name: Matheus Cunha
+Year of birth: 1999
+National team: Brazil
+Club: Atletico Madrid
+
+Position: MF
+Name: N'Golo Kante
+Year of birth: 1991
+National team: France
+Club: Chelsea
+
+Position: FW
+Name: Neymar
+Year of birth: 1992
+National team: Brazil
+Club: Paris Saint-Germain
+
+Position: DF
+Name: Nuno Mendes
+Year of birth: 2002
+National team: Portugal
+Club: Paris Saint-Germain
+
+Position: DF
+Name: Pau Torres
+Year of birth: 1997
+National team: Spain
+Club: Villarreal
+
+Position: MF
+Name: Paul Pogba
+Year of birth: 1993
+National team: France
+Club: Manchester United
+
+Position: FW
+Name: Paulo Dybala
+Year of birth: 1993
+National team: Argentina
+Club: Juventus
+
+Position: FW
+Name: Phil Foden
+Year of birth: 2000
+National team: England
+Club: Manchester City
+
+Position: DF
+Name: Presnel Kimpembe
+Year of birth: 1995
+National team: France
+Club: Paris Saint-Germain
+
+Position: FW
+Name: Raheem Sterling
+Year of birth: 1994
+National team: England
+Club: Manchester City
+
+Position: DF
+Name: Raphael Varane
+Year of birth: 1993
+National team: France
+Club: Manchester United
+
+Position: DF
+Name: Raúl Albiol
+Year of birth: 1985
+National team: Spain
+Club: Villarreal
+
+Position: DF
+Name: Reece James
+Year of birth: 1999
+National team: England
+Club: Chelsea
+
+Position: DF
+Name: Renan Lodi
+Year of birth: 1998
+National team: Brazil
+Club: Atletico Madrid
+
+Position: FW
+Name: Roberto Firmino
+Year of birth: 1991
+National team: Brazil
+Club: Liverpool
+
+Position: MF
+Name: Rodri
+Year of birth: 1996
+National team: Spain
+Club: Manchester City
+
+Position: MF
+Name: Rodrigo De Paul
+Year of birth: 1994
+National team: Argentina
+Club: Atletico Madrid
+
+Position: FW
+Name: Rodrygo
+Year of birth: 2001
+National team: Brazil
+Club: Real Madrid
+
+Position: DF
+Name: Rúben Dias
+Year of birth: 1997
+National team: Portugal
+Club: Manchester City
+
+Position: DF
+Name: Sergio Ramos
+Year of birth: 1986
+National team: Spain
+Club: Paris Saint-Germain
+
+Position: MF
+Name: Thiago
+Year of birth: 1991
+National team: Spain
+Club: Liverpool
+
+Position: DF
+Name: Thiago Silva
+Year of birth: 1984
+National team: Brazil
+Club: Chelsea
+
+Position: MF
+Name: Thomas Lemar
+Year of birth: 1995
+National team: France
+Club: Atletico Madrid
+
+Position: DF
+Name: Trent Alexander-Arnold
+Year of birth: 1998
+National team: England
+Club: Liverpool
+
+Position: FW
+Name: Vinícius Júnior
+Year of birth: 2000
+National team: Brazil
+Club: Real Madrid
